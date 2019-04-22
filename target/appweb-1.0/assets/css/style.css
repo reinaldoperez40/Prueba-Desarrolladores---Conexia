@@ -1,0 +1,27 @@
+.btn:focus, .btn:active, button:focus, button:active {
+  	outline: none !important;
+	box-shadow: none !important;
+}
+
+#image-gallery .modal-footer{
+  	display: block;
+}
+
+.page-header {
+  	padding-bottom:0px;
+	margin: 0px 0 5px;
+}
+
+.table {
+    margin-bottom: 0px;
+}
+
+hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
+
